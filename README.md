@@ -1,2 +1,1 @@
-# chatbot-engine
-A full-stack application with a React.js frontend and Python backend, delivering a responsive and user-friendly interface. The backend manages secure APIs, business logic, and data processing, ensuring smooth communication, scalability, and reliable performance for modern web applications.
+The frontend is developed using React.js, providing a responsive and interactive user interface. It uses reusable components, efficient state management, and modern UI practices to ensure fast performance and a smooth user experience across devices.
